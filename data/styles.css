@@ -7,11 +7,15 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
 .box_2 {
 }
 .box_3 {
 }
 ._图片 {
+}
+.placeholder {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -61,16 +65,10 @@
 ._文本段落 {
   text-align:left;
 }
-._流程形状 {
-}
-.table_cell {
-}
-.image {
-  color:#000000;
-}
-.box_1 {
-}
-.icon {
-}
 .line {
+}
+.ellipse {
+}
+._图片1 {
+  color:#000000;
 }
